@@ -10,7 +10,7 @@ permissions:
   packages: write
 
 env:
-  IMAGE: ghcr.io/${{ github.repository }}:latest
+  IMAGE: ghcr.io/it209-k24-lephuthinh/ss12-bt04:latest
 
 jobs:
   build-image:
